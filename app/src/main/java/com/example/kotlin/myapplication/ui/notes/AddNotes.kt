@@ -33,8 +33,8 @@ class AddNotes : BaseAppCompactActivity() {
 
     private fun addNewNote() {
 
-        noteTitle.isValid()
-        noteDescription.isValid()
+        noteTitle.validate()
+        noteDescription.validate()
 
         if (noteTitle.isValid() && noteDescription.isValid()) {
 

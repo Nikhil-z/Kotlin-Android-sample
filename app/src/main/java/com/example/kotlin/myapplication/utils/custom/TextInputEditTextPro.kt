@@ -63,6 +63,10 @@ open class TextInputEditTextPro : TextInputEditText {
         })
     }
 
+    internal fun validate(){
+        isValid()
+    }
+
     internal fun isValid(): Boolean {
 
         var valid = false
