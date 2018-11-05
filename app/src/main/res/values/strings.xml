@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="delete">Delete</string>
+    <string name="your_todo">Your Todo list is empty</string>
+    <string name="description">Description</string>
+    <string name="title">title</string>
+</resources>
