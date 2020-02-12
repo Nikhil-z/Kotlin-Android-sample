@@ -1,4 +1,7 @@
 # Kotlin-Android-sample
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b117422a1c804eb894cba1af7b3f70e8)](https://app.codacy.com/manual/Nikhil-z/Kotlin-Android-sample?utm_source=github.com&utm_medium=referral&utm_content=Nikhil-z/Kotlin-Android-sample&utm_campaign=Badge_Grade_Dashboard)
+
 A simple Android kotlin sample which includes Retrofit2 , Room and new approach of offline first app
 
 
